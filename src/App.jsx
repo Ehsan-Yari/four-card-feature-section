@@ -23,7 +23,7 @@ function App() {
           >
             <div className='md:row-span-2'>
               {/* card-1 */}
-              <div className='flex flex-col rounded-lg rounded-t-md border-t-4 border-primary-cyan p-7 shadow-2xl'>
+              <div className='flex flex-col rounded-lg rounded-t-md border-t-4 border-primary-cyan bg-white p-7 shadow-2xl'>
                 {/* card heading */}
                 <div className='mb-8'>
                   <h3 className='mb-1.5 text-xl font-semibold text-neutral-darkBlue'>
@@ -40,7 +40,7 @@ function App() {
               </div>
             </div>
             {/* card-2 */}
-            <div className='flex flex-col rounded-lg rounded-t-md border-t-4 border-primary-red  p-7 shadow-xl'>
+            <div className='flex flex-col rounded-lg rounded-t-md border-t-4 border-primary-red bg-white  p-7 shadow-xl'>
               {/* card heading */}
               <div className='mb-8'>
                 <h3 className='mb-1.5 text-xl font-semibold text-neutral-darkBlue'>
@@ -57,7 +57,7 @@ function App() {
               </div>
             </div>
             {/* card-3 */}
-            <div className='flex flex-col rounded-lg rounded-t-md border-t-4 border-primary-orange  p-7 shadow-xl'>
+            <div className='flex flex-col rounded-lg rounded-t-md border-t-4 border-primary-orange bg-white  p-7 shadow-xl'>
               {/* card heading */}
               <div className='mb-8'>
                 <h3 className='mb-1.5 text-xl font-semibold text-neutral-darkBlue'>
@@ -74,7 +74,7 @@ function App() {
             </div>
             <div className='md:row-span-2'>
               {/* card-4 */}
-              <div className='flex flex-col rounded-lg rounded-t-md border-t-4 border-primary-blue p-7 shadow-xl'>
+              <div className='flex flex-col rounded-lg rounded-t-md border-t-4 border-primary-blue bg-white p-7 shadow-xl'>
                 {/* card heading */}
                 <div className='mb-8'>
                   <h3 className='mb-1.5 text-xl font-semibold text-neutral-darkBlue'>
