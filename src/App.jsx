@@ -2,7 +2,7 @@ import './App.css'
 
 function App() {
   return (
-    <div className='container mx-auto my-20 grid min-h-screen  max-w-7xl justify-center'>
+    <div className='container mx-auto my-20 grid  max-w-7xl justify-center'>
       <div className='mx-8'>
         <header className='mx-auto mb-20 max-w-xl text-center tracking-wide md:mb-16'>
           <h1 className='mb-2 text-2xl font-extralight  text-neutral-darkBlue md:text-4xl'>
